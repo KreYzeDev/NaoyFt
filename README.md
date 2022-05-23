@@ -4,10 +4,10 @@ naoyft@debianlinux
 -----------------
 Username: Kaneki Web
 Alias: Kaneki, Paradox
-Discord: https://discord.gg/BTdFXbZ9t7
-Website: https://kanekiweb.tk/
+Discord: https://discord.gg/KtZqtPTRZF
+Website: https://kreyze.fr
    
-paradox@archlinux
+naoyft@debianlinux
 -----------------
 Frontend: 8/10
 Backend: 7/1O
